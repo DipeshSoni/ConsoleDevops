@@ -1,0 +1,10 @@
+D:\Job\ConsoleAppDev\ConsoleAppDev\bin\Debug\ConsoleAppDev.exe.config
+D:\Job\ConsoleAppDev\ConsoleAppDev\bin\Debug\ConsoleAppDev.exe
+D:\Job\ConsoleAppDev\ConsoleAppDev\bin\Debug\ConsoleAppDev.pdb
+D:\Job\ConsoleAppDev\ConsoleAppDev\bin\Debug\EntityFramework.dll
+D:\Job\ConsoleAppDev\ConsoleAppDev\bin\Debug\EntityFramework.SqlServer.dll
+D:\Job\ConsoleAppDev\ConsoleAppDev\bin\Debug\EntityFramework.xml
+D:\Job\ConsoleAppDev\ConsoleAppDev\bin\Debug\EntityFramework.SqlServer.xml
+D:\Job\ConsoleAppDev\ConsoleAppDev\obj\Debug\ConsoleAppDev.csprojResolveAssemblyReference.cache
+D:\Job\ConsoleAppDev\ConsoleAppDev\obj\Debug\ConsoleAppDev.exe
+D:\Job\ConsoleAppDev\ConsoleAppDev\obj\Debug\ConsoleAppDev.pdb
